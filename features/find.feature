@@ -9,4 +9,4 @@ Feature: Count of books by authors
          | The Lion, the Witch and the Wardrobe | C.S.Lewis   |
          | In the garden of Beasts              | Erik Larson |
       When I search for books by author "Erik Larson"
-      Then I find 2 books
+      Then I find 3 books
